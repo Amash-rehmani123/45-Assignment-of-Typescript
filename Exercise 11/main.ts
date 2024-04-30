@@ -1,0 +1,13 @@
+let names :string[] = ["Bisma", "Sania", "Abbas", "Jeddi", "Aimen", "Kinza", "Ainy", "Shaizmera", "Iqra", "Misbah"]
+console.log(names[0])
+console.log(names[1])
+console.log(names[2])
+console.log(names[3])
+console.log(names[4])
+console.log(names[5])
+console.log(names[6])
+console.log(names[7])
+console.log(names[8])
+console.log(names[9])
+
+
